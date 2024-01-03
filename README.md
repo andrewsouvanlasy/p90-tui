@@ -2,6 +2,8 @@
 
 A silly terminal program which simulates shooting a [FN P90](https://en.wikipedia.org/wiki/FN_P90) submachine gun. Built using [Ratatui](https://ratatui.rs/).
 
+![Recording 2024-01-03 at 15 44 13](https://github.com/andrewsouvanlasy/p90-tui/assets/93152029/0aaaf206-6cb8-4718-a627-dddd3ccc67dc)
+
 ## Controls
 
 [F]ire
